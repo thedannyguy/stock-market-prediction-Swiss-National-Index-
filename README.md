@@ -13,7 +13,7 @@ This project is about stock market prediction (Swiss Market Index) and has 4 ste
 This repository is written in Python and the following Python packages are required: numpy, pandas, investpy, yfinance, pandas_datareader, pandas_ta, sklearn.ensemble, sklearn.feature_selection, matplotlib.pyplot, scipy and sklearn.preprocessing
 
 # File description
-Project 1 notebook.ipynb : notebook containing all the codes for this project
+Udacity Project Workbook 1.ipynb : notebook containing all the codes for this project
 
 all_fundamental indicators.csv : csv file containing all the fundamental variables
 
